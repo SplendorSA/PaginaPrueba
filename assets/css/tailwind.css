@@ -7601,6 +7601,23 @@ html[dir=rtl] .tns-visually-hidden {
   }
 }
 
+@media (min-width: 400px){
+  .ks\:ml-6000{
+    margin-left: 118px !important;
+  }
+  .ks\:mr-6200{
+    margin-right: 20px !important;
+  }
+  .ks\:mb-170{
+    margin-bottom: 240px !important;
+    margin-top:5px !important;
+  }
+
+  .ks\:hidden{
+    display: none !important;
+  }
+}
+
 @media (min-width: 425px){
   .ks\:ml-6000{
     margin-left: 130px !important;
